@@ -1,9 +1,9 @@
 ### 🧸💗 Hello and good to meet you! 🙇🏻‍♀️✨
-- 👩🏻‍💻 My Name: Munlika Chaipradit
-- 🌈 Degree: Bachelor's Degree
-- 🥫 Faculty: College of Arts, Media and Technology (CAMT)
-- 🔧 Major: Software Engineering
-- 🍟 University: Chiang Mai University
+- 👩🏻‍💻 <b>My Name:</b> Munlika Chaipradit
+- 🌈 <b>Degree:</b> Bachelor's Degree
+- 🥫 <b>Faculty:</b> College of Arts, Media and Technology (CAMT)
+- 🔧 <b>Major:</b> Software Engineering
+- 🍟 <b>University:</b> Chiang Mai University
 
 <!--
 **munlikaCh/munlikaCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
