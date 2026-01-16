@@ -28,15 +28,22 @@ I love exploring new technologies and collaborating on exciting projects. Feel f
 
 [![GitHub](https://img.shields.io/badge/GitHub-munlikaCh-181717?style=flat-square&logo=github)](https://github.com/munlikaCh)
 
-## GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=munlikaCh&show_icons=true&theme=tokyonight&count_private=true" alt="Munlika's GitHub stats" />
-</p>
+## Top Languages & GitHub Stats
 
-## Top Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munlikaCh&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Langs" />
-</p>
+<table border="0" style="border: none;">
+  <tr>
+    <td>
+      <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=munlikaCh&layout=compact&theme=tokyonight" alt="MunlikaCh's Top Languages" height="165"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=munlikaCh&show_icons=true&theme=tokyonight" alt="MunlikaCh's GitHub stats" height="165" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/ly_polarbear"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ly_polarbear" /></a></p><br><br>
