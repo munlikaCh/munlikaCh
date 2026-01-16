@@ -28,26 +28,15 @@ I love exploring new technologies and collaborating on exciting projects. Feel f
 
 [![GitHub](https://img.shields.io/badge/GitHub-munlikaCh-181717?style=flat-square&logo=github)](https://github.com/munlikaCh)
 
+## GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=munlikaCh&show_icons=true&theme=tokyonight&count_private=true" alt="Munlika's GitHub stats" />
+</p>
+
+## Top Languages
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munlikaCh&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Langs" />
+</p>
+
 ## Support
 <p><a href="https://www.buymeacoffee.com/ly_polarbear"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ly_polarbear" /></a></p><br><br>
-
-<!--- 👩🏻‍💻 <b>My Name:</b> Munlika Chaipradit
-- 🌈 <b>Degree:</b> Bachelor's Degree
-- 🥫 <b>Faculty:</b> College of Arts, Media and Technology (CAMT)
-- 🔧 <b>Major:</b> Software Engineering
-- 🍟 <b>University:</b> Chiang Mai University
-
-
-**munlikaCh/munlikaCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
