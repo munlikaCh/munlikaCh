@@ -28,12 +28,6 @@ I love exploring new technologies and collaborating on exciting projects. Feel f
 
 [![GitHub](https://img.shields.io/badge/GitHub-munlikaCh-181717?style=flat-square&logo=github)](https://github.com/munlikaCh)
 
-[![Munlika's GitHub stats](https://github-readme-stats.vercel.app/api?username=munlikaCh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munlikaCh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Munlika's GitHub stats](https://github-readme-stats.vercel.app/api?username=munlikaCh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=munlikaCh&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munlikaCh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Support
 <p><a href="https://www.buymeacoffee.com/ly_polarbear"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ly_polarbear" /></a></p><br><br>
 
