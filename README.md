@@ -1,6 +1,6 @@
 # Hello, I'm Munlika Chaipradit! 🧸💗
 
-I'm a **Flutter Developer** based in Bangkok with a passion for mobile app development and innovative projects.
+I'm a **Mobile Developer** based in Bangkok with a passion for mobile app development and innovative projects.
 
 ## About Me
 - **🏢 Current Role:** Flutter Developer at a company in Bangkok.
